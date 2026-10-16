@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="244" viewBox="0 0 540 244" role="img" aria-labelledby="title desc">
+<title id="title">Nowen Video - 02 / MEDIA</title><desc id="desc">A private cinema for your NAS.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="540" y2="244" gradientUnits="userSpaceOnUse"><stop stop-color="#0A1426"/><stop offset=".65" stop-color="#13213A"/><stop offset="1" stop-color="#1D1736"/></linearGradient>
+<radialGradient id="halo" cx="0" cy="0" r="1" gradientTransform="translate(420 112) rotate(90) scale(170 190)" gradientUnits="userSpaceOnUse"><stop stop-color="#B29AFF" stop-opacity=".20"/><stop offset="1" stop-color="#B29AFF" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="25" height="25" patternUnits="userSpaceOnUse"><path d="M25 0H0V25" fill="none" stroke="#ACCBEC" stroke-opacity=".045"/></pattern></defs>
+<rect width="540" height="244" rx="15" fill="url(#bg)"/><rect width="540" height="244" rx="15" fill="url(#grid)"/><rect width="540" height="244" rx="15" fill="url(#halo)"/>
+<rect x="1" y="1" width="538" height="242" rx="14" stroke="#8CAAD7" stroke-opacity=".22" fill="none"/>
+<rect x="30" y="30" width="6" height="6" rx="3" fill="#B29AFF"/><text x="45" y="38" font-family="Consolas,Menlo,monospace" letter-spacing="2.1" font-size="11" font-weight="700" fill="#B29AFF">02 / MEDIA</text>
+<path d="M30 51H331" stroke="#90ACCE" stroke-opacity=".17"/>
+<text x="30" y="105" font-family="Arial,Helvetica,sans-serif" font-size="39" font-weight="800" letter-spacing="-.8" fill="#EBF5FF">Nowen Video</text>
+<text x="30" y="139" font-family="Arial,Helvetica,sans-serif" font-size="15" fill="#B4C7E0">A private cinema for your NAS.</text>
+<rect x="367" y="68" width="119" height="111" rx="15" fill="#101F35" stroke="#B29AFF" stroke-opacity=".44"/><circle cx="426" cy="124" r="39" fill="#B29AFF" fill-opacity=".12" stroke="#B29AFF" stroke-width="2" stroke-opacity=".65"/><path d="M417 106l29 18-29 18z" fill="#B29AFF"/><path d="M380 196h96" stroke="#B29AFF" stroke-width="3" stroke-opacity=".34" stroke-linecap="round"/>
+<path d="M30 173H330" stroke="#90ACCE" stroke-opacity=".16"/>
+<rect x="30" y="190" width="139" height="28" rx="7" fill="#17273C" stroke="#B29AFF" stroke-opacity=".27"/><text x="42" y="208" font-family="Consolas,Menlo,monospace" font-size="11" letter-spacing=".45" font-weight="700" fill="#B29AFF">SELF-HOSTED</text><rect x="181" y="190" width="139" height="28" rx="7" fill="#17273C" stroke="#B29AFF" stroke-opacity=".27"/><text x="193" y="208" font-family="Consolas,Menlo,monospace" font-size="11" letter-spacing=".45" font-weight="700" fill="#B29AFF">FFMPEG / HLS</text>
+<text x="29" y="234" font-size="9" fill="#6E88A9" font-family="Consolas,Menlo,monospace" letter-spacing="1.3">NOWEN / OPEN SOURCE PROJECT</text>
+</svg>

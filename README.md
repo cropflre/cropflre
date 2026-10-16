@@ -21,34 +21,60 @@
 
 > I build open-source tools where **ideas, knowledge and actions** come together.
 
-- **Building:** [Nowen Note（弄文笔记）](https://github.com/cropflre/nowen-note) — 开源、自托管的知识与生产力工作台
+- **Building:** [Nowen Note](https://github.com/cropflre/nowen-note) · [Nowen Video](https://github.com/cropflre/nowen-video) · [Nowen Reader](https://github.com/cropflre/nowen-reader) · [NOWEN 书签](https://github.com/cropflre/NOWEN)
 - **Exploring:** Local-first · Multi-device Sync · MCP · RAG · AI Agents · Plugin Systems
 - **Working with:** TypeScript · React · Vue · Electron · Node.js · Docker
 
-### // FEATURED PROJECT
+### // NOWEN PROJECT ECOSYSTEM
 
 <div align="center">
-  <a href="https://github.com/cropflre/nowen-note">
-    <img src="./assets/nowen-project-card.svg" width="100%" alt="Nowen Note — notes, knowledge, tasks, AI, sync and plugins" />
-  </a>
+  <p><strong>Four open-source projects. One idea: make software simpler, more useful, and truly yours.</strong></p>
+  <sub>四个产品方向 · 统一的 Nowen 视觉语言 · 自托管与开放优先</sub>
 </div>
 
 <br />
 
-**[Nowen Note / 弄文笔记](https://github.com/cropflre/nowen-note)** — 一套数据由自己掌控、可部署在 NAS / 服务器上的开源知识与生产力系统。
-
-| CORE MODULES | WHAT IT DOES |
-| :--- | :--- |
-| **01 / KNOWLEDGE** | 富文本与 Markdown、统一知识树、知识检索 |
-| **02 / LOCAL-FIRST** | 离线工作区、Sync V2、多端增量同步 |
-| **03 / INTELLIGENCE** | AI 写作、RAG 问答、MCP 与智能任务 |
-| **04 / EXTENSIBILITY** | 插件系统、API、Webhook、浏览器剪藏 |
-| **05 / EVERYWHERE** | Web、Electron 桌面端、Android 与 NAS |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/cropflre/nowen-note">
+        <img src="./assets/nowen-project-card.svg" width="100%" alt="Nowen Note — knowledge and productivity" />
+      </a>
+      <p><b><a href="https://github.com/cropflre/nowen-note">Nowen Note · 弄文笔记</a></b><br/>
+      开源知识与生产力工作台：统一知识树、富文本 / Markdown、任务中心、AI RAG、离线工作区和多端同步。</p>
+      <p><a href="https://github.com/cropflre/nowen-note"><img src="https://img.shields.io/github/stars/cropflre/nowen-note?style=flat-square&amp;logo=github&amp;label=Stars&amp;labelColor=15243A&amp;color=06B6D4" alt="Nowen Note stars" /></a> <a href="https://nowen.cn/"><img src="https://img.shields.io/badge/Website-Nowen-6477EC?style=flat-square" alt="Nowen website" /></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/cropflre/nowen-video">
+        <img src="./assets/nowen-video-card.svg" width="100%" alt="Nowen Video — self-hosted media platform" />
+      </a>
+      <p><b><a href="https://github.com/cropflre/nowen-video">Nowen Video · 弄文影视</a></b><br/>
+      NAS 私人家庭影音平台：媒体扫描与刮削、影视库管理、字幕、在线播放、Remux 和按需 HLS 转码。</p>
+      <p><a href="https://github.com/cropflre/nowen-video"><img src="https://img.shields.io/github/stars/cropflre/nowen-video?style=flat-square&amp;logo=github&amp;label=Stars&amp;labelColor=15243A&amp;color=8B5CF6" alt="Nowen Video stars" /></a> <a href="https://github.com/cropflre/nowen-video#-快速开始"><img src="https://img.shields.io/badge/Guide-Quick%20Start-6477EC?style=flat-square" alt="Nowen Video guide" /></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/cropflre/nowen-reader">
+        <img src="./assets/nowen-reader-card.svg" width="100%" alt="Nowen Reader — comics and novels" />
+      </a>
+      <p><b><a href="https://github.com/cropflre/nowen-reader">Nowen Reader · 弄文阅读</a></b><br/>
+      轻量自托管漫画与小说平台：多格式书库、元数据管理、OPDS、阅读进度与可选 AI 智能辅助。</p>
+      <p><a href="https://github.com/cropflre/nowen-reader"><img src="https://img.shields.io/github/stars/cropflre/nowen-reader?style=flat-square&amp;logo=github&amp;label=Stars&amp;labelColor=15243A&amp;color=0D9488" alt="Nowen Reader stars" /></a> <a href="https://github.com/cropflre/nowen-reader/blob/main/docs/INSTALL.md"><img src="https://img.shields.io/badge/Guide-Install-6477EC?style=flat-square" alt="Nowen Reader install guide" /></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/cropflre/NOWEN">
+        <img src="./assets/nowen-bookmarks-card.svg" width="100%" alt="NOWEN — bookmarks and system dashboard" />
+      </a>
+      <p><b><a href="https://github.com/cropflre/NOWEN">NOWEN · 弄文书签 / 星云门户</a></b><br/>
+      个人导航与书签管理：分类标签、Spotlight 搜索、AI 标签、主题切换，以及服务器与 Docker 运行状态监控。</p>
+      <p><a href="https://github.com/cropflre/NOWEN"><img src="https://img.shields.io/github/stars/cropflre/NOWEN?style=flat-square&amp;logo=github&amp;label=Stars&amp;labelColor=15243A&amp;color=F59E0B" alt="NOWEN stars" /></a> <a href="https://github.com/cropflre/NOWEN#-快速开始"><img src="https://img.shields.io/badge/Guide-Docker-6477EC?style=flat-square" alt="NOWEN Docker guide" /></a></p>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
-  <a href="https://nowen.cn/"><img src="https://img.shields.io/badge/Official%20Site-nowen.cn-6366F1?style=flat-square&amp;labelColor=161B2E" alt="Official site" /></a>
-  <a href="https://github.com/cropflre/nowen-note/releases"><img src="https://img.shields.io/badge/Downloads-Releases-0891B2?style=flat-square&amp;labelColor=161B2E" alt="Download releases" /></a>
-  <a href="https://github.com/cropflre/nowen-note/issues"><img src="https://img.shields.io/badge/Ideas-%26%20Feedback-7C3AED?style=flat-square&amp;labelColor=161B2E" alt="Ideas and feedback" /></a>
+  <a href="https://github.com/cropflre?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-ALL%20REPOSITORIES-1A2740?style=for-the-badge&amp;logo=github&amp;logoColor=86E3F6" alt="Explore all repositories" /></a>
 </div>
 
 ### // TOOLKIT
