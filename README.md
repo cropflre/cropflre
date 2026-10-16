@@ -46,7 +46,7 @@
 | **05 / EVERYWHERE** | Web、Electron 桌面端、Android 与 NAS |
 
 <div align="center">
-  <a href="https://nowen.cn/"><img src="https://img.shields.io/badge/Official%20Site-n o w e n . c n-6366F1?style=flat-square&amp;labelColor=161B2E" alt="Official site" /></a>
+  <a href="https://nowen.cn/"><img src="https://img.shields.io/badge/Official%20Site-nowen.cn-6366F1?style=flat-square&amp;labelColor=161B2E" alt="Official site" /></a>
   <a href="https://github.com/cropflre/nowen-note/releases"><img src="https://img.shields.io/badge/Downloads-Releases-0891B2?style=flat-square&amp;labelColor=161B2E" alt="Download releases" /></a>
   <a href="https://github.com/cropflre/nowen-note/issues"><img src="https://img.shields.io/badge/Ideas-%26%20Feedback-7C3AED?style=flat-square&amp;labelColor=161B2E" alt="Ideas and feedback" /></a>
 </div>
