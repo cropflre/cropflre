@@ -1,16 +1,91 @@
-## Hi there 👋
+<div align="center">
+  <img src="./assets/nowen-profile-banner.svg" width="100%" alt="Drug / cropflre — Nowen Open Source Lab" />
+</div>
 
-<!--
-**cropflre/cropflre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <h2>Hi, I'm Drug 👋</h2>
+  <p><strong>开源产品开发者 · Nowen Note Creator · Building thoughtful software.</strong></p>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=19&amp;duration=2800&amp;pause=900&amp;color=73DDF9&amp;center=true&amp;vCenter=true&amp;width=720&amp;lines=Open+Source+%C3%97+Independent+Development;Frontend+%E2%86%92+Desktop+%E2%86%92+AI+Agents;Build+simple.+Make+it+powerful." alt="Animated introduction" />
+  <p>
+    <a href="https://github.com/cropflre/nowen-note"><img src="https://img.shields.io/github/stars/cropflre/nowen-note?style=for-the-badge&amp;logo=github&amp;label=Nowen%20Note%20Stars&amp;labelColor=101827&amp;color=6557D2" alt="Nowen Note stars" /></a>
+    <a href="https://github.com/cropflre/nowen-note/releases"><img src="https://img.shields.io/github/v/release/cropflre/nowen-note?style=for-the-badge&amp;labelColor=101827&amp;color=0891B2" alt="Latest Nowen Note release" /></a>
+    <a href="https://nowen.cn/"><img src="https://img.shields.io/badge/NOWEN-WEBSITE-101827?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=73DDF9" alt="Nowen website" /></a>
+  </p>
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### // ABOUT ME
+
+我喜欢把复杂的问题做成简单、可靠、顺手的工具。专注 **Web 前端、跨端桌面应用、个人知识管理与 AI Agent**，持续维护自己的开源项目。
+
+> I build open-source tools where **ideas, knowledge and actions** come together.
+
+- **Building:** [Nowen Note（弄文笔记）](https://github.com/cropflre/nowen-note) — 开源、自托管的知识与生产力工作台
+- **Exploring:** Local-first · Multi-device Sync · MCP · RAG · AI Agents · Plugin Systems
+- **Working with:** TypeScript · React · Vue · Electron · Node.js · Docker
+
+### // FEATURED PROJECT
+
+<div align="center">
+  <a href="https://github.com/cropflre/nowen-note">
+    <img src="./assets/nowen-project-card.svg" width="100%" alt="Nowen Note — notes, knowledge, tasks, AI, sync and plugins" />
+  </a>
+</div>
+
+<br />
+
+**[Nowen Note / 弄文笔记](https://github.com/cropflre/nowen-note)** — 一套数据由自己掌控、可部署在 NAS / 服务器上的开源知识与生产力系统。
+
+| CORE MODULES | WHAT IT DOES |
+| :--- | :--- |
+| **01 / KNOWLEDGE** | 富文本与 Markdown、统一知识树、知识检索 |
+| **02 / LOCAL-FIRST** | 离线工作区、Sync V2、多端增量同步 |
+| **03 / INTELLIGENCE** | AI 写作、RAG 问答、MCP 与智能任务 |
+| **04 / EXTENSIBILITY** | 插件系统、API、Webhook、浏览器剪藏 |
+| **05 / EVERYWHERE** | Web、Electron 桌面端、Android 与 NAS |
+
+<div align="center">
+  <a href="https://nowen.cn/"><img src="https://img.shields.io/badge/Official%20Site-n o w e n . c n-6366F1?style=flat-square&amp;labelColor=161B2E" alt="Official site" /></a>
+  <a href="https://github.com/cropflre/nowen-note/releases"><img src="https://img.shields.io/badge/Downloads-Releases-0891B2?style=flat-square&amp;labelColor=161B2E" alt="Download releases" /></a>
+  <a href="https://github.com/cropflre/nowen-note/issues"><img src="https://img.shields.io/badge/Ideas-%26%20Feedback-7C3AED?style=flat-square&amp;labelColor=161B2E" alt="Ideas and feedback" /></a>
+</div>
+
+### // TOOLKIT
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,vue,tailwind,vite,nodejs,electron,docker,linux,sqlite,postgres,git,github&perline=7&theme=dark" alt="TypeScript JavaScript React Vue Tailwind Vite Node Electron Docker Linux SQLite PostgreSQL Git GitHub" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://img.shields.io/badge/FRONTEND-React%20%7C%20Vue%20%7C%20TypeScript-111827?style=for-the-badge&amp;labelColor=0E7490" alt="Frontend skills" />
+  <img src="https://img.shields.io/badge/DESKTOP-Electron%20%7C%20Cross--Platform-111827?style=for-the-badge&amp;labelColor=4F46E5" alt="Desktop skills" />
+  <img src="https://img.shields.io/badge/AI-MCP%20%7C%20RAG%20%7C%20Agents-111827?style=for-the-badge&amp;labelColor=7C3AED" alt="AI skills" />
+</div>
+
+### // GITHUB TELEMETRY
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=cropflre&amp;show_icons=true&amp;hide_border=true&amp;theme=tokyonight&amp;bg_color=0D1424&amp;title_color=73DDF9&amp;icon_color=A78BFA&amp;text_color=B9CBDF" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cropflre&amp;layout=compact&amp;hide_border=true&amp;theme=tokyonight&amp;bg_color=0D1424&amp;title_color=73DDF9&amp;text_color=B9CBDF" alt="GitHub top languages" />
+</div>
+
+### // CONTRIBUTION SNAKE
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cropflre/cropflre/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cropflre/cropflre/output/github-contribution-grid-snake-light.svg" />
+    <img alt="Contribution grid animated as a snake" src="https://raw.githubusercontent.com/cropflre/cropflre/output/github-contribution-grid-snake-light.svg" width="100%" />
+  </picture>
+  <sub>Auto-generated by <a href="https://github.com/Platane/snk">Platane/snk</a> · Updated daily via GitHub Actions</sub>
+</div>
+
+---
+
+<div align="center">
+  <strong>Build with curiosity. Ship with care.</strong><br/>
+  <sub>Made with ☕ and open source · <a href="https://github.com/cropflre">GitHub</a> · <a href="https://nowen.cn/">Nowen</a></sub>
+</div>

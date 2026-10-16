@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="255" viewBox="0 0 1100 255" role="img" aria-labelledby="t d">
+<title id="t">NOWEN NOTE — Your knowledge, your workspace.</title>
+<desc id="d">A dark Nowen Note product card showing knowledge, local-first sync, AI, plugins, and cross-platform support.</desc>
+<defs>
+<linearGradient id="b" x1="0" y1="0" x2="1100" y2="255" gradientUnits="userSpaceOnUse"><stop stop-color="#0D182B"/><stop offset=".6" stop-color="#14223B"/><stop offset="1" stop-color="#251944"/></linearGradient>
+<linearGradient id="l" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#5DDCF6"/><stop offset="1" stop-color="#AD8FFF"/></linearGradient>
+<pattern id="g" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" stroke="#A8CFFF" stroke-opacity=".055" fill="none"/></pattern>
+</defs>
+<rect width="1100" height="255" rx="16" fill="url(#b)"/><rect width="1100" height="255" rx="16" fill="url(#g)"/>
+<rect x="1" y="1" width="1098" height="253" rx="15" stroke="#729ACA" stroke-opacity=".25" fill="none"/>
+<rect x="35" y="31" width="37" height="37" rx="10" fill="#1A3552" stroke="#58D6F1" stroke-opacity=".8"/>
+<path d="M46 56V43L60 56V43" stroke="#75E4F9" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="88" y="58" fill="#7EE6F9" font-family="Consolas,Menlo,monospace" font-size="13" font-weight="700" letter-spacing="2">NOWEN / FEATURED PROJECT</text>
+<text x="35" y="125" fill="#EFF7FF" font-family="Arial,Helvetica,sans-serif" font-weight="800" font-size="50">Nowen Note</text>
+<text x="38" y="157" fill="#AAC3DE" font-family="Arial,Helvetica,sans-serif" font-size="19">Notes. Knowledge. Tasks. AI. One workspace.</text>
+<g font-size="12" font-family="Consolas,Menlo,monospace" font-weight="700">
+<rect x="35" y="184" width="128" height="32" rx="7" fill="#17374B" stroke="#397C94"/><text x="52" y="205" fill="#9AEFFC">SELF-HOSTED</text>
+<rect x="175" y="184" width="116" height="32" rx="7" fill="#282546" stroke="#675B9C"/><text x="192" y="205" fill="#CEC1FF">SYNC V2</text>
+<rect x="303" y="184" width="129" height="32" rx="7" fill="#17374B" stroke="#397C94"/><text x="320" y="205" fill="#9AEFFC">EXTENSIBLE</text>
+</g>
+<g transform="translate(733 31)">
+<rect width="331" height="193" rx="13" fill="#0C182C" stroke="#6583B1" stroke-opacity=".4"/>
+<rect x="0" y="0" width="331" height="30" rx="13" fill="#1B2C46"/><path d="M0 30H331" stroke="#436181" stroke-opacity=".6"/>
+<circle cx="18" cy="15" r="3.5" fill="#6EDCF2"/><circle cx="31" cy="15" r="3.5" fill="#9F8DF8"/><circle cx="44" cy="15" r="3.5" fill="#4E668B"/>
+<rect x="14" y="42" width="82" height="136" rx="5" fill="#15263E"/>
+<g stroke="#7592B9" stroke-opacity=".43" stroke-width="3" stroke-linecap="round"><path d="M27 56H73M27 71H59M27 86H80M27 101H63M27 116H76M27 131H59"/></g>
+<rect x="109" y="44" width="207" height="26" rx="5" fill="#1B3050"/><rect x="119" y="52" width="90" height="7" rx="3.5" fill="#7FDDEF" fill-opacity=".75"/>
+<g stroke="#6D88AD" stroke-opacity=".4" stroke-width="5" stroke-linecap="round"><path d="M119 87H282M119 101H303M119 115H268M119 129H293"/></g>
+<rect x="110" y="148" width="97" height="24" rx="5" fill="#183F4E"/><text x="125" y="164" fill="#82EAEC" font-size="10" font-family="monospace"># KNOWLEDGE</text>
+<rect x="216" y="148" width="99" height="24" rx="5" fill="#343054"/><text x="234" y="164" fill="#C5B6FE" font-size="10" font-family="monospace"># AI READY</text>
+</g>
+<text x="37" y="238" fill="#7088AA" font-family="Consolas,monospace" font-size="11">OPEN SOURCE  /  LOCAL-FIRST  /  MULTI-PLATFORM</text>
+</svg>

@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">CROPFLRE | NOWEN OPEN SOURCE LAB</title>
+<desc id="desc">A dark midnight-blue developer console with soft cyan and violet gradients, a Nowen node mark, and open-source skill cards.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse"><stop stop-color="#080F1E"/><stop offset=".56" stop-color="#10192D"/><stop offset="1" stop-color="#22143C"/></linearGradient>
+  <linearGradient id="accent" x1="76" y1="0" x2="765" y2="0" gradientUnits="userSpaceOnUse"><stop stop-color="#EAFAFF"/><stop offset=".45" stop-color="#84E3FF"/><stop offset="1" stop-color="#B99BFF"/></linearGradient>
+  <linearGradient id="wire" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#42CFFF"/><stop offset="1" stop-color="#A677FF"/></linearGradient>
+  <linearGradient id="glass" x1="825" y1="45" x2="1136" y2="322" gradientUnits="userSpaceOnUse"><stop stop-color="#1C2B47"/><stop offset="1" stop-color="#151629"/></linearGradient>
+  <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(1000 180) rotate(90) scale(270 320)" gradientUnits="userSpaceOnUse"><stop stop-color="#5341CB" stop-opacity=".32"/><stop offset="1" stop-color="#5341CB" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#96B4DB" stroke-opacity=".06"/></pattern>
+  <filter id="soft"><feGaussianBlur stdDeviation="10"/></filter>
+  <filter id="highlight"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="360" rx="22" fill="url(#bg)"/>
+<rect width="1200" height="360" rx="22" fill="url(#grid)"/>
+<rect width="1200" height="360" rx="22" fill="url(#glow)"/>
+<path d="M0 290C193 217 278 350 481 289S790 257 1200 317" fill="none" stroke="#4EC7FC" stroke-opacity=".11" stroke-width="2"/>
+<path d="M0 323C193 257 310 362 488 315S856 264 1200 342" fill="none" stroke="#9F7BFC" stroke-opacity=".13" stroke-width="2"/>
+<rect x="1" y="1" width="1198" height="358" rx="21" fill="none" stroke="#7A95BD" stroke-opacity=".22"/>
+<rect x="53" y="43" width="7" height="7" rx="3.5" fill="#5DE2F5"/>
+<text x="73" y="52" fill="#69DDF5" font-size="13" font-family="Consolas,Menlo,monospace" font-weight="700" letter-spacing="2.5">NOWEN / OPEN SOURCE LAB</text>
+<path d="M53 70H735" stroke="#8CA4C8" stroke-opacity=".18"/>
+<text x="53" y="159" fill="url(#accent)" font-family="Arial,Helvetica,sans-serif" font-weight="800" font-size="72" letter-spacing="-1.5">CROPFLRE</text>
+<rect x="55" y="184" width="35" height="3" rx="1.5" fill="#68DDF6"/>
+<text x="103" y="191" fill="#B5A5FF" font-size="22" font-family="Consolas,Menlo,monospace" font-weight="700" letter-spacing="3.3">BUILD. CONNECT. CREATE.</text>
+<text x="54" y="240" fill="#AEC2DC" font-size="18" font-family="Arial,Helvetica,sans-serif">Independent developer  /  Creator of Nowen Note</text>
+<g font-family="Consolas,Menlo,monospace" font-size="12" font-weight="700" letter-spacing=".8">
+ <rect x="53" y="271" width="151" height="34" rx="8" fill="#17283A" stroke="#3F869A" stroke-opacity=".7"/><circle cx="70" cy="288" r="3" fill="#5ADCE7"/><text x="82" y="292" fill="#B2F4FF">LOCAL-FIRST</text>
+ <rect x="216" y="271" width="143" height="34" rx="8" fill="#1C2340" stroke="#7268AD" stroke-opacity=".65"/><circle cx="233" cy="288" r="3" fill="#B89AFB"/><text x="245" y="292" fill="#E0D1FF">AI / AGENTS</text>
+ <rect x="371" y="271" width="159" height="34" rx="8" fill="#17283A" stroke="#3F869A" stroke-opacity=".7"/><circle cx="388" cy="288" r="3" fill="#5ADCE7"/><text x="400" y="292" fill="#B2F4FF">OPEN SOURCE</text>
+</g>
+<g>
+ <rect x="821" y="43" width="323" height="273" rx="18" fill="url(#glass)" stroke="#86AEDB" stroke-opacity=".3"/>
+ <rect x="821" y="43" width="323" height="36" rx="18" fill="#253451" fill-opacity=".45"/>
+ <path d="M821 79H1144" stroke="#8BACD8" stroke-opacity=".18"/>
+ <circle cx="844" cy="61" r="4" fill="#77E1F4"/><circle cx="858" cy="61" r="4" fill="#978CF7"/><circle cx="872" cy="61" r="4" fill="#576887"/>
+ <text x="902" y="65" fill="#9BAED0" font-size="11" letter-spacing="1.5" font-family="Consolas,monospace">nowen.workspace</text>
+ <g filter="url(#highlight)">
+  <path d="M957 184L995 132L1048 179L1012 230L957 184Z" fill="#6D5EF7" fill-opacity=".08" stroke="#8278FF" stroke-width="3"/>
+  <path d="M957 184L1012 230L1088 206M995 132L1080 120L1048 179L1088 206" fill="none" stroke="#51CFF0" stroke-opacity=".8" stroke-width="2"/>
+  <path d="M995 132L1012 230M957 184L1048 179" fill="none" stroke="#887BF6" stroke-opacity=".7" stroke-width="2"/>
+ </g>
+ <g fill="#121C32" stroke-width="3"><circle cx="957" cy="184" r="9" stroke="#5FDDF7"/><circle cx="995" cy="132" r="9" stroke="#A48DFB"/><circle cx="1048" cy="179" r="10" stroke="#6EDDF5"/><circle cx="1012" cy="230" r="9" stroke="#AE8EFF"/><circle cx="1088" cy="206" r="8" stroke="#65D9F3"/><circle cx="1080" cy="120" r="7" stroke="#928AFC"/></g>
+ <g font-family="Consolas,Menlo,monospace"><rect x="842" y="268" width="281" height="31" rx="7" fill="#111C30" stroke="#677CA3" stroke-opacity=".23"/><circle cx="857" cy="284" r="3" fill="#64E2B7"/><text x="869" y="289" font-size="11" fill="#B5C6DF" letter-spacing=".7">SYSTEM: BUILDING IN PUBLIC</text></g>
+</g>
+<text x="54" y="336" fill="#7D93B3" font-size="11" font-family="Consolas,monospace" letter-spacing="1.6">THOUGHTFUL SOFTWARE  ·  KNOWLEDGE  ·  PRODUCTIVITY</text>
+</svg>
